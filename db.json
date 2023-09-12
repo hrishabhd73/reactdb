@@ -4,12 +4,12 @@
             "userId": 1,
             "id": 1,
             "title": "The React Redux Blog",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime eligendi reprehenderit quasi assumenda nostrum libero dignissimos magnam harum voluptate unde!"
+            "body": "This is my First React-Redux blog post"
         }, 
         {
             "userId": 2,
             "id": 2,
-            "title": "Back story of Harry Potter",
+            "title": "The back story of Harry Potter",
             "body": "I finished writing the final Harry Potter book in 2007, which seems a very long time ago now. And before that, I had been immersed in Harry’s world for nearly 20 years – since 1990, in fact, when the idea of a boy who doesn’t yet know that he is a great wizard first bubbled up in my brain. But what makes me happiest is that new readers, all over the world, are still discovering Harry Potter for the first time, today."
         },
         {
