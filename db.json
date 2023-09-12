@@ -5,7 +5,7 @@
             "id": 1,
             "title": "The React Redux Blog",
             "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime eligendi reprehenderit quasi assumenda nostrum libero dignissimos magnam harum voluptate unde!"
-        },
+        }, 
         {
             "userId": 2,
             "id": 2,
